@@ -15,6 +15,6 @@ This is a simple applications that displays a graph of the internet download spe
 
 The back-end is Javascript and HTML5, in order to be able to communicate with an external server and obtain the speeds and the front-end is Java.
 
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/576/861/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/576/862/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/576/864/datas/gallery.jpg)
+![](https://i.imgur.com/XAm2o6z.png)
+![](https://i.imgur.com/ppUqm58.png)
+
